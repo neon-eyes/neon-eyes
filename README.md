@@ -41,7 +41,7 @@
 
 Click on a badge to verify 
 
-<a href="">
+<a href="https://www.credly.com/badges/7af5a933-a127-46e7-a1f0-be5efbddbcaa">
   <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="200" height="200" alt="CKA Badge">
 </a>
 
