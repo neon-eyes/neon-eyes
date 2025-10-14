@@ -45,6 +45,4 @@ Click on a badge to verify
 
 ### ⚙️ GitHub Stats
 ![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neon-eyes&show_icons=true&theme=tokyonight)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-eyes&layout=compact&theme=tokyonight)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-eyes&layout=compact&theme=tokyonight)<br>
