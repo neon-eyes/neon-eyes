@@ -38,9 +38,9 @@
 ---
 
 ### 🏅 Certifications
-
-[![GitOps at Scale](https://img.shields.io/badge/GitOps%20at%20Scale-%23007ACC.svg?style=for-the-badge&logo=weaveworks&logoColor=white)](https://www.weave.works)
-[![CKA Certified](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+<a href="https://www.credly.com/badges/ecce0d90-c79f-434a-8990-0de68acba2a7">
+  <img src="https://images.credly.com/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" width="100" height="100" alt="GitOps at Scale Badge">
+</a>
 
 ---
 
