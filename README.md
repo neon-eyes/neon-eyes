@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Ethan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=AWS+%7C+DevOps+Engineer;Automation+and+Infrastructure+Enthusiast;Continuous+Learning+%26+Optimization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4895EF&center=true&vCenter=true&width=665&lines=AWS+%7C+DevOps+Engineer;Automation+and+Infrastructure+Enthusiast;Continuous+Learning+%26+Optimization)](https://git.io/typing-svg)
 
 💡 I’m an **AWS + DevOps Engineer** passionate about automation, CI/CD, and building scalable cloud systems.  
 🚀 Recent project: [**EntryTracker**](https://github.com/neon-eyes/EntryTracker)  
@@ -21,18 +21,21 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ---
 
 ### 🏅 Certifications
 
-<a href="https://www.credly.com/badges/<your-cka-badge-id>/public_url">
-  <img src="https://images.credly.com/size/200x200/images/8c6f243e-f3a0-4b1a-9d5a-7b1a2b4d3f61/CKA_badge.png" width="100" height="100" alt="CKA Badge">
-</a>
-
-<a href="https://www.credly.com/badges/<your-gitops-badge-id>/public_url">
-  <img src="https://images.credly.com/size/200x200/images/8a928497-3d38-4b04-8bfb-798cf21c3409/Weaveworks-GitOps-at-Scale.png" width="100" height="100" alt="GitOps at Scale Badg
-
+[![GitOps at Scale](https://img.shields.io/badge/GitOps%20at%20Scale-%23007ACC.svg?style=for-the-badge&logo=weaveworks&logoColor=white)](https://www.weave.works)
+[![CKA Certified](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
 ---
 
