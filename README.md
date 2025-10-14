@@ -39,7 +39,7 @@
 
 ### 🏅 Certifications
 <a href="https://www.credly.com/badges/ecce0d90-c79f-434a-8990-0de68acba2a7">
-  <img src="https://images.credly.com/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" width="100" height="100" alt="GitOps at Scale Badge">
+  <img src="https://images.credly.com/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" width="200" height="200" alt="GitOps at Scale Badge">
 </a>
 
 ---
