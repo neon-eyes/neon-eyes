@@ -15,7 +15,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayaf94&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=neon-eyes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
