@@ -14,11 +14,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayaf94&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### 🧠 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
