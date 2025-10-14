@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there 👋 I'm Ethan!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-<!--
-**neon-eyes/neon-eyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I’m an AWS + DevOps builder who loves automation, CI/CD, and cloud wizardry.  
+🚀 Check out my latest project: [EntryTracker](https://github.com/neon-eyes/EntryTracker)  
+🌱 Currently learning: Kubernetes internals & observability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ GitHub Stats
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neon-eyes&theme=tokyonight)
+
+### 🧠 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 🎵 Fun fact
+> “Automate the boring stuff, then automate the automation.” 🤖
