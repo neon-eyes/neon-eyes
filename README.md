@@ -38,6 +38,13 @@
 ---
 
 ### 🏅 Certifications
+
+Click on a badge to verify 
+
+<a href="">
+  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="200" height="200" alt="CKA Badge">
+</a>
+
 <a href="https://www.credly.com/badges/ecce0d90-c79f-434a-8990-0de68acba2a7">
   <img src="https://images.credly.com/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" width="200" height="200" alt="GitOps at Scale Badge">
 </a>
