@@ -1,6 +1,7 @@
 # Hey there 👋 I'm Ethan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4895EF&center=true&vCenter=true&width=665&lines=DevOps+Engineer+%2F+SRE;Automation+%26+Cloud+Infrastructure;AWS+%2F+Terraform+%2F+Kubernetes+%2F+CI%2FCD)](https://git.io/typing-svg)
+
 👨‍💻 I'm Ethan, an aspiring Junior DevOps engineer / SRE.  
 🚀 I create CI/CD pipelines and deploy applications using GitOps practices.  
 🌱 Passionate about automating infrastructure, solving cloud challenges, and optimizing DevOps workflows.  
