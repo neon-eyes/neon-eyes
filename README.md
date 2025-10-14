@@ -15,9 +15,14 @@ Click on a badge to verify
 <a href="https://www.credly.com/badges/7af5a933-a127-46e7-a1f0-be5efbddbcaa">
   <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150" height="150" alt="CKA Badge">
 </a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.credly.com/badges/ab4e2f4e-0500-4af6-807a-97bfdcc536a9">
+  <img src="https://images.credly.com/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" width="150" height="150" alt="CKA Badge">
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.credly.com/badges/ecce0d90-c79f-434a-8990-0de68acba2a7">
   <img src="https://images.credly.com/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" width="150" height="150" alt="GitOps at Scale Badge">
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 ---
 
