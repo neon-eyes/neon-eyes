@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4895EF&center=true&vCenter=true&width=665&lines=AWS+%7C+DevOps+Engineer;Automation+and+Infrastructure+Enthusiast;Continuous+Learning+%26+Optimization)](https://git.io/typing-svg)
 
-👨‍💻 I'm Ethan, an aspiring Junior DevOps engineer/SRE.<br>
-🚀 I build CI/CD pipelines and deploy applications with GitOps practices.<br>
-🎯 Passionate about solving infrastructure challenges and making DevOps workflows more efficient.<br>
+## 👨‍💻 I'm Ethan, an aspiring Junior DevOps engineer/SRE.<br>
+## 🚀 I build CI/CD pipelines and deploy applications with GitOps practices.<br>
+## 🎯 Passionate about solving infrastructure challenges and making DevOps workflows more efficient.<br>
 
 ---
 
