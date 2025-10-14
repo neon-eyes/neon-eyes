@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4895EF&center=true&vCenter=true&width=665&lines=AWS+%7C+DevOps+Engineer;Automation+and+Infrastructure+Enthusiast;Continuous+Learning+%26+Optimization)](https://git.io/typing-svg)
 
-💡 I’m an **AWS + DevOps Engineer** passionate about automation, CI/CD, and building scalable cloud systems.  
-🚀 Recent project: [**EntryTracker**](https://github.com/neon-eyes/EntryTracker)  
-🌱 Learning: **Kubernetes internals, observability, and advanced Terraform patterns**
+👨‍💻 I'm Ethan, an aspiring Junior DevOps engineer/SRE.<br>
+🚀 I build CI/CD pipelines and deploy applications with GitOps practices.<br>
+🎯 Passionate about solving infrastructure challenges and making DevOps workflows more efficient.<br>
 
 ---
 
@@ -28,7 +28,7 @@ Click on a badge to verify
 
 ### 🧠 Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
