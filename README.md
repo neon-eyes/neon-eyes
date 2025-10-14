@@ -48,6 +48,3 @@ Click on a badge to verify
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-eyes&layout=compact&theme=tokyonight)
 
 ---
-
-### 🧩 Philosophy
-> “Automate the boring stuff — then automate the automation.” 🤖
