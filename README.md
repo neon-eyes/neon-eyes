@@ -9,13 +9,13 @@
 ---
 
 ### ⚙️ GitHub Stats
-![][Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neon-eyes&show_icons=true&theme=tokyonight)
-![][Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-eyes&layout=compact&theme=tokyonight)
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neon-eyes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-eyes&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neon-eyes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mayaf94&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
